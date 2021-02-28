@@ -29,4 +29,4 @@ There are some file types which will appear in every lab assignment.
 
 ## Requirements
 
-**[Requirements](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/RTOS.html)** - All the code/debug were done on this IDE. \
+**[Requirements](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/RTOS.html)** 
